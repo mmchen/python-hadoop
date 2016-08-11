@@ -17,4 +17,5 @@
 # limitations under the License.
 
 from CodecPool import *
+from Lz4Codec import *
 

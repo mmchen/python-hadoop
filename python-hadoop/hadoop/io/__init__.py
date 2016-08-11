@@ -24,6 +24,7 @@ import ArrayFile
 import MapFile
 import SetFile
 
+from BytesWritable import *
 from Writable import *
 from IntWritable import *
 from Text import *
